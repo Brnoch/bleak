@@ -1,58 +1,58 @@
  @ font - face {
-    font - family: 'Libre Baskerville';
+    font - family: sans - serif;
     font - style: normal;
     font - weight: 300;
-    src: local("Libre Baskerville Light"),
-    local("LibreBaskerville-Light"),
-    url("//fonts.gstatic.com/s/librebaskerville/v7/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNXaxMaC82U-ro.woff2")format("woff")
+    src: local("Merriweather Sans Light"),
+    local("MerriweatherSans-Light"),
+    url(https://fonts.gstatic.com/s/librebaskerville/v7/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNXaxMaC82U-ro.woff2)format("woff")
 }
  @ font - face {
-    font - family: 'Libre Baskerville';
+    font - family: 'Merriweather Sans';
     font - style: normal;
     font - weight: 400;
-    src: local("Libre Baskerville Regular"),
-    local("LibreBaskerville-Regular"),
-    url("//fonts.gstatic.com/s/librebaskerville/v7/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNXaxMaC82U-ro.woff2")format("woff")
+    src: local("Merriweather Sans Regular"),
+    local("MerriweatherSans-Regular"),
+    url(https://fonts.gstatic.com/s/librebaskerville/v7/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNXaxMaC82U-ro.woff2)format("woff")
 }
  @ font - face {
-    font - family: 'Libre Baskerville';
+    font - family: 'Merriweather Sans';
     font - style: normal;
     font - weight: 700;
-    src: local("Libre Baskerville Bold"),
-    local("LibreBaskerville-Bold"),
-    url("//fonts.gstatic.com/s/librebaskerville/v7/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcC-wLOjAUw.woff2")format("woff")
+    src: local("Merriweather Sans Bold"),
+    local("MerriweatherSans-Bold"),
+    url(https://fonts.gstatic.com/s/librebaskerville/v7/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcC-wLOj.woff2)format("woff")
 }
  @ font - face {
-    font - family: 'Libre Baskerville';
+    font - family: 'Merriweather Sans';
     font - style: normal;
     font - weight: 800;
-    src: local("Libre Baskerville ExtraBold"),
-    local("LibreBaskerville-ExtraBold"),
-    url("//fonts.gstatic.com/s/librebaskerville/v7/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY5KcC-wLOjAUw.woff2")format("woff")
+    src: local("Merriweather Sans ExtraBold"),
+    local("MerriweatherSans-ExtraBold"),
+    url(https://fonts.gstatic.com/s/librebaskerville/v7/kmKiZrc3Hgbbcjq75U4uslyuy4kn0qviTgY3KcC-wLOj.woff2)format("woff")
 }
  @ font - face {
-    font - family: 'Libre Baskerville';
+    font - family: 'Merriweather Sans';
     font - style: italic;
     font - weight: 300;
-    src: local("LibreBaskerville-Italic"),
-    local("LibreBaskerville-Italic"),
-    url("//fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWx8QDO-WyrubOA.woff2")format("woff")
+    src: local("Merriweather Sans Light Italic"),
+    local("MerriweatherSans-LightItalic"),
+    url(https://fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQDO-Wyrs.woff2)format("woff")
 }
  @ font - face {
-    font - family: 'Libre Baskerville';
+    font - family: 'Merriweather Sans';
     font - style: italic;
     font - weight: 400;
-    src: local("Libre Baskerville Italic"),
-    local("LibreBaskerville-Italic"),
-    url("//fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWx8QDO-WyrubOA.woff2")format("woff")
+    src: local("Merriweather Sans Italic"),
+    local("MerriweatherSans-Italic"),
+    url(https://fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQDO-Wyrs.woff2)format("woff")
 }
  @ font - face {
-    font - family: 'Libre Baskerville';
+    font - family: 'Merriweather Sans';
     font - style: italic;
     font - weight: 700;
-    src: local("Libre Baskerville Italic"),
-    local("LibreBaskerville-BoldItalic"),
-    url("//fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWx8QDO-WyrubOA.woff2")format("woff")
+    src: local("Merriweather Sans Bold Italic"),
+    local("MerriweatherSans-BoldItalic"),
+    url(https://fonts.gstatic.com/s/librebaskerville/v7/kmKhZrc3Hgbbcjq75U4uslyuy4kn0qNcWxEQDO-Wyrs.woff2)format("woff")
 }
  @ font - face {
     font - family: 'Inconsolata';
@@ -132,7 +132,7 @@
     --color - primary - active:  # 2DB77E
 }
 body {
-    font: 300 1em / 1.5em 'Libre Baskerville',
+    font: 300 1em / 1.5em 'Merriweather Sans',
     sans - serif;
     color:  # 595B66
 }
@@ -2119,3 +2119,4 @@ body {
     z - index: 50;
     color:  # 9D9FA6
 }
+
