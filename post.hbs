@@ -57,8 +57,12 @@
 
 							<aside class="post-comments">
 								<div id="disqus_thread"></div>
-								{{comments}}
 							</aside>
+							{{#if comments}}
+								<section class="post-comments">
+									{{comments}}
+								</section>
+							{{/if}}
 						</div>
 
 						<aside class="post-author">
